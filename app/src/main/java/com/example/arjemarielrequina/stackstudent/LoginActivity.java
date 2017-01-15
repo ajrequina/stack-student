@@ -32,7 +32,7 @@ public class LoginActivity extends AppCompatActivity {
       setContentView(R.layout.activity_signup);
       isLogin = false;
     }
-
+    // hey i just met you
     // jfksjakfjaskfjaskfja
 
     if(isLogin){
