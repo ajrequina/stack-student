@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/action_enroll_selected"
+    android:orderInCategory="100"
+    android:title="@string/action_enroll_selected"
+    app:showAsAction="never"/>
+<item
+    android:id="@+id/action_cancel_action"
+    android:orderInCategory="100"
+    android:title="@string/action_cancel_action"
+    app:showAsAction="never"/>
+<item
+    android:id="@+id/action_back_action"
+    android:orderInCategory="100"
+    android:title="@string/action_back_action"
+    app:showAsAction="never"/>
+</menu>
